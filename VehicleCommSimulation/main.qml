@@ -17,7 +17,6 @@ ApplicationWindow {
         zoomLevel: 14
 
 
-
         MouseArea {
             id: mouseArea
             anchors.fill: parent
