@@ -26,10 +26,9 @@ This repository contains the codebase for a real-time vehicle communication simu
 ### Building and Running the Project
 
 ```bash
-# Clone the repository
 git clone https://github.com/your_username/VehicleCommSimulation.git
 
-# Navigate to project directory
+# Navigate
 cd VehicleCommSimulation
 
 # Build and run
