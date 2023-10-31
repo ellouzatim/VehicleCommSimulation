@@ -1,0 +1,62 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"imports/VehicleCommSimulation/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "VehicleCommSimulationplugin_autogen_timestamp_deps::@6af4310413e329513a3a",
+	"isGeneratorProvided" : true,
+	"name" : "VehicleCommSimulationplugin_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "imports/VehicleCommSimulation",
+		"source" : "imports/VehicleCommSimulation"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/Mohamed/Documents/Projet_/build-VehicleCommSimulation-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/imports/VehicleCommSimulation/CMakeFiles/VehicleCommSimulationplugin_autogen_timestamp_deps",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/Mohamed/Documents/Projet_/build-VehicleCommSimulation-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/imports/VehicleCommSimulation/CMakeFiles/VehicleCommSimulationplugin_autogen_timestamp_deps.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

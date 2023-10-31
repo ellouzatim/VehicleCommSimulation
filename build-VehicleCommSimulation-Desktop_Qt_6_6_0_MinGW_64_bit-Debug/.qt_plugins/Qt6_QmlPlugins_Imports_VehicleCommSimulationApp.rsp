@@ -1,0 +1,15 @@
+-rootPath
+C:/Users/Mohamed/Documents/Projet_/VehicleCommSimulation
+-cmake-output
+-output-file
+C:/Users/Mohamed/Documents/Projet_/build-VehicleCommSimulation-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_VehicleCommSimulationApp.cmake
+-importPath
+C:/Users/Mohamed/Documents/Projet_/build-VehicleCommSimulation-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/qml/Main
+-importPath
+C:/Users/Mohamed/Documents/Projet_/build-VehicleCommSimulation-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/qml
+-importPath
+C:/Qt/6.6.0/mingw_64/./qml
+-qrcFiles
+C:/Users/Mohamed/Documents/Projet_/build-VehicleCommSimulation-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/.rcc/configuration.qrc
+C:/Users/Mohamed/Documents/Projet_/build-VehicleCommSimulation-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/.rcc/qmake_Main.qrc
+C:/Users/Mohamed/Documents/Projet_/build-VehicleCommSimulation-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/.rcc/VehicleCommSimulationApp_raw_qml_0.qrc

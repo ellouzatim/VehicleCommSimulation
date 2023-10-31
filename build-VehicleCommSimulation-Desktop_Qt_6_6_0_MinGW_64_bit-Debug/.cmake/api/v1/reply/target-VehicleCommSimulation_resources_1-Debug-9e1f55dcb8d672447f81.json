@@ -1,0 +1,299 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "imports/VehicleCommSimulation/CMakeFiles/VehicleCommSimulation_resources_1.dir/./VehicleCommSimulation_resources_1_autogen/mocs_compilation.cpp.obj"
+		},
+		{
+			"path" : "imports/VehicleCommSimulation/CMakeFiles/VehicleCommSimulation_resources_1.dir/./.rcc/qrc_qmake_VehicleCommSimulation.cpp.obj"
+		}
+	],
+	"backtrace" : 5,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"__qt_propagate_generated_resource",
+			"_qt_internal_process_resource",
+			"qt6_add_resources",
+			"qt6_add_qml_module",
+			"target_compile_definitions",
+			"set_property",
+			"_qt_internal_copy_dependency_properties",
+			"__qt_internal_propagate_object_library"
+		],
+		"files" : 
+		[
+			"C:/Qt/6.6.0/mingw_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"C:/Qt/6.6.0/mingw_64/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake",
+			"imports/VehicleCommSimulation/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 10,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 584,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 326,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 2121,
+				"parent" : 3
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1729,
+				"parent" : 4
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 1730,
+				"parent" : 4
+			},
+			{
+				"command" : 8,
+				"file" : 0,
+				"line" : 1758,
+				"parent" : 4
+			},
+			{
+				"command" : 7,
+				"file" : 0,
+				"line" : 1674,
+				"parent" : 7
+			},
+			{
+				"command" : 6,
+				"file" : 0,
+				"line" : 2474,
+				"parent" : 8
+			},
+			{
+				"command" : 6,
+				"file" : 0,
+				"line" : 2474,
+				"parent" : 8
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-DQT_QML_DEBUG -g"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 6,
+					"define" : "MINGW_HAS_SECURE_API=1"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_QMLINTEGRATION_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_QML_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "UNICODE"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "WIN32"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "WIN64"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "_ENABLE_EXTENDED_ALIGNED_STORAGE"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "_UNICODE"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "_WIN64"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "C:/Users/Mohamed/Documents/Projet_/build-VehicleCommSimulation-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/imports/VehicleCommSimulation/VehicleCommSimulation_resources_1_autogen/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/Mohamed/Documents/Projet_/build-VehicleCommSimulation-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/imports/VehicleCommSimulation/VehicleCommSimulation_autogen/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/Mohamed/Documents/Projet_/VehicleCommSimulation/imports/VehicleCommSimulation"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Qt/6.6.0/mingw_64/include/QtQml/6.6.0"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Qt/6.6.0/mingw_64/include/QtQml/6.6.0/QtQml"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Qt/6.6.0/mingw_64/include/QtCore/6.6.0"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Qt/6.6.0/mingw_64/include/QtCore/6.6.0/QtCore"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Qt/6.6.0/mingw_64/include/QtCore"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Qt/6.6.0/mingw_64/include/QtQml"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Qt/6.6.0/mingw_64/include/QtQmlIntegration"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Qt/6.6.0/mingw_64/include/QtNetwork"
+				},
+				{
+					"backtrace" : 10,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.6.0/mingw_64/include"
+				},
+				{
+					"backtrace" : 10,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.6.0/mingw_64/mkspecs/win32-g++"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "VehicleCommSimulation_resources_1_autogen::@6af4310413e329513a3a"
+		},
+		{
+			"id" : "VehicleCommSimulation_resources_1_autogen_timestamp_deps::@6af4310413e329513a3a"
+		}
+	],
+	"id" : "VehicleCommSimulation_resources_1::@6af4310413e329513a3a",
+	"name" : "VehicleCommSimulation_resources_1",
+	"paths" : 
+	{
+		"build" : "imports/VehicleCommSimulation",
+		"source" : "imports/VehicleCommSimulation"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				2
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				3,
+				4
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/Mohamed/Documents/Projet_/build-VehicleCommSimulation-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/imports/VehicleCommSimulation/VehicleCommSimulation_resources_1_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/Mohamed/Documents/Projet_/build-VehicleCommSimulation-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/imports/VehicleCommSimulation/.rcc/qrc_qmake_VehicleCommSimulation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/Mohamed/Documents/Projet_/build-VehicleCommSimulation-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/imports/VehicleCommSimulation/VehicleCommSimulation_resources_1_autogen/timestamp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/Mohamed/Documents/Projet_/build-VehicleCommSimulation-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/imports/VehicleCommSimulation/.rcc/qrc_qmake_VehicleCommSimulation.cpp.rule",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/Mohamed/Documents/Projet_/build-VehicleCommSimulation-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/imports/VehicleCommSimulation/VehicleCommSimulation_resources_1_autogen/timestamp.rule",
+			"sourceGroupIndex" : 2
+		}
+	],
+	"type" : "OBJECT_LIBRARY"
+}

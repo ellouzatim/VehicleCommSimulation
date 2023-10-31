@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/VehicleCommSimulation/">
+    <file alias="Constants.qml">C:/Users/Mohamed/Documents/Projet_/VehicleCommSimulation/imports/VehicleCommSimulation/Constants.qml</file>
+    <file alias="DirectoryFontLoader.qml">C:/Users/Mohamed/Documents/Projet_/VehicleCommSimulation/imports/VehicleCommSimulation/DirectoryFontLoader.qml</file>
+    <file alias="EventListModel.qml">C:/Users/Mohamed/Documents/Projet_/VehicleCommSimulation/imports/VehicleCommSimulation/EventListModel.qml</file>
+    <file alias="EventListSimulator.qml">C:/Users/Mohamed/Documents/Projet_/VehicleCommSimulation/imports/VehicleCommSimulation/EventListSimulator.qml</file>
+  </qresource>
+</RCC>
+

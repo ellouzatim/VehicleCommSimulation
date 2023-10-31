@@ -1,0 +1,102 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "QuickStudioEffectsplugin::@981cd0cfbc19161bec24"
+		},
+		{
+			"id" : "QuickStudioComponentsplugin::@b8ea75ca72e9d0096cda"
+		},
+		{
+			"id" : "FlowViewplugin::@f99fd1e4b9fa497fd232"
+		},
+		{
+			"id" : "QuickStudioLogicHelperplugin::@a133c4daf6f4e56b78b8"
+		},
+		{
+			"id" : "QuickStudioMultiTextplugin::@a7b8d61f767e497853c2"
+		},
+		{
+			"id" : "QuickStudioEventSimulatorplugin::@639cba86296065e16922"
+		},
+		{
+			"id" : "QuickStudioEventSystemplugin::@c931a55b2364f386d7db"
+		},
+		{
+			"id" : "QuickStudioApplicationplugin::@a324641c06033e250fc2"
+		},
+		{
+			"id" : "contentplugin::@73a38b9e525c9c2ae262"
+		},
+		{
+			"id" : "VehicleCommSimulationplugin::@6af4310413e329513a3a"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "VehicleCommSimulationApp_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+	"isGeneratorProvided" : true,
+	"name" : "VehicleCommSimulationApp_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/Mohamed/Documents/Projet_/build-VehicleCommSimulation-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/VehicleCommSimulationApp_autogen_timestamp_deps",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/Mohamed/Documents/Projet_/build-VehicleCommSimulation-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/VehicleCommSimulationApp_autogen_timestamp_deps.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/Mohamed/Documents/Projet_/build-VehicleCommSimulation-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/.rcc/qmlcache/VehicleCommSimulationApp_qmlcache_loader.cpp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}
